@@ -14,8 +14,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-
+import numpy as np
+A = np.array([[3,1],[1,-3]])
+B = np.array([10,0])
+le = np.linalg.solve(A,B)
+print(le)
 ## Output:
+![model](photos.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
