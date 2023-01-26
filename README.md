@@ -1,4 +1,6 @@
 # SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+Name:Sriram 
+Ref No:22008452
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
